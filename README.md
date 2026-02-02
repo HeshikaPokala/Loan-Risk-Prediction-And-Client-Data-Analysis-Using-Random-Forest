@@ -12,12 +12,6 @@ The project combines:
 
 ---
 
-## 🧑‍💻 Author
-**Name:** Heshika Pokala  
-**Email:** heshikapokala@gmail.com  
-
----
-
 ## 📊 Data Visualization
 After loading the dataset (JSON format), multiple visualizations are created using
 **Matplotlib** and **Seaborn** to understand data distribution and client behavior.
